@@ -1,1 +1,11 @@
-this is my new text
+
+cmd
+git status 
+git add. 
+cls 
+git status = going to staing area
+git commit - m"second commit"
+git status = nothing commit 
+git push
+
+
