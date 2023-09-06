@@ -8,4 +8,7 @@ git commit - m"second commit"
 git status = nothing commit 
 git push
 
+
 agian modify 2 file
+
+git pull
